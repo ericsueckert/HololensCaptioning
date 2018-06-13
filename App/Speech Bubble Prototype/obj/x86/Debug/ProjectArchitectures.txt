@@ -1,0 +1,2 @@
+C:\Users\Potato\Documents\Speech Bubble Prototype\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\Potato\Documents\Speech Bubble Prototype\App\Speech Bubble Prototype\Speech Bubble Prototype.csproj;x86
