@@ -1,18 +1,14 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speech Bubble Prototype", "Assembly-CSharp.csproj", "{BAC6D480-9231-8EBF-7634-00800BA185BD}"
-EndProject
+
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BAC6D480-9231-8EBF-7634-00800BA185BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BAC6D480-9231-8EBF-7634-00800BA185BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BAC6D480-9231-8EBF-7634-00800BA185BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BAC6D480-9231-8EBF-7634-00800BA185BD}.Release|Any CPU.Build.0 = Release|Any CPU
+
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
